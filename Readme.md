@@ -1,4 +1,4 @@
-\# Titanic Survival Prediction - Kaggle Competition
+Titanic Survival Prediction - Kaggle Competition
 
 
 
@@ -10,9 +10,9 @@ This repository contains my solution for the \[Kaggle Titanic: Machine Learning 
 
 
 
-\* \*\*Best Kaggle Score:\*\* `0.78708`
+Best Kaggle Score: `0.78708`
 
-\* \*\*Model:\*\* Random Forest Classifier (`sklearn`)
+Model:Random Forest Classifier (`sklearn`)
 
 
 
@@ -134,5 +134,6 @@ To break the 0.80 barrier, future iterations will focus on:
 
 2\. \*\*Family Mapping:\*\* Calculating family size by combining `SibSp` and `Parch`.
 
-3\. \*\*Missing Value Imputation:\*\* Using more advanced techniques for filling missing `Age` values based on Pclass or Title.
+3.Missing Value Imputation:\*\* Using more advanced techniques for filling missing `Age` values based on Pclass or Title.
+
 
